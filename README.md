@@ -1,3 +1,3 @@
 #Desenvolvimento web Dio.pro
 
-Minha primeira página web em html.
+Desafio Dio.pro, HTML.
